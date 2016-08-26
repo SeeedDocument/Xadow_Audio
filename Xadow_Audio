@@ -1,0 +1,75 @@
+# Xadow Audio
+## Introduction
+---
+The Xadow Audio integrates a speaker box and a microphone on one single board. The speaker unit is rated at 0.7Watt with an impedance of 8 ohm. Unlike the regular cone type speakers, the loudspeaker driver used on the Xadow Audio has a flat surface and is mounted in a rectangular enclosure, which enables it to reproduce sounds at an amazing effect.
+
+## Features
+---
+Open source and modular design
+Built-in enclosure for speaker
+Combines speaker and microphone on one board
+Built-in Xadow Connectors for easy pluggable FPC cables
+Stackable and chain-able with other Xadow Modules
+Perfect choice for your audio and DIY Phone projects
+
+## Specification
+
+**Speaker Box**
+
+|||
+|---|---|
+|Resonant Frequency|	900 Hz|
+|Impedance|	8 ± 20% ohms|
+|Rated Power|	0.7 W|
+|MAX. Power	|1 W|
+|Frequency Range	|900 Hz to 20 kHz|
+
+**Microphone**
+
+|||
+|---|---|
+|Microphone Sensitivity	|-42dBV Typ|
+|Max Input Sound Pressure	|130dB SPL|
+
+**Dimensions**
+
+||||
+|---|---|---|
+|Speaker	|13mm × 18mm × 4.5mm | 0.51”× 0.71” × 0.18”|
+|Microphone	|2.95mm × 3.76mm | 0.12” × 0.15”|
+|Board	|25.37mm × 20.30mm | 1” × 0.8”|
+
+
+## Hardware Overview
+---
+
+
+## Make it now
+
+Check on awesome RePhone projects that has been achieved with RePhone.
+A Traceable Dog Collar
+5 steps to make a traceable dog collar for your lovely puppy.
+
+Module Connection
+
+Connect the Modules as instructed, please bear in mind that the unfilled corner should be facing the other side:
+
+## RePhone Community
+
+We’ve been looking for a better place where our backers (RePhone Users) can sit together, warmly and comfortably, have conversations about RePhone, discuss technical problems, share ideas/projects, and give feedback on the modules’ development in the future. And then here we go, the [RePhone Community](http://www.seeed.cc/discover.html?t=RePhone).
+
+Now join us in the [RePhone Community](http://www.seeed.cc/discover.html?t=RePhone)! Together we seek answers, make interesting stuff, care about each other, and share our experiences.
+
+**Frequently Asked Questions**
+
+Some frequently asked questions in [RePhone Community](http://www.seeed.cc/discover.html?t=RePhone) are collected and answered to the topic "Frequently Asked Questions of RePhone (FAQ)" , the topic will be kept updating whenever a new FAQ comes out.
+
+
+## Resources
+
+The schematic diagram of Xadow Audio is provide in the following link:
+- Xadow Audio Schematic Files
+
+
+## Help us to make it better
+<iframe style="height: 600px; width: 500px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.surveymonkey.com/r/XK3ZGFJ" frameborder="0"></iframe>
